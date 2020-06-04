@@ -8,17 +8,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          BootCamp2020 Basic React App
           <br />
-          Updated By Jvad!!
+          By Jvad!!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/jvad/project01"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GitHub Repository
         </a>
       </header>
     </div>
